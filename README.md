@@ -36,13 +36,6 @@ Gosto de usar tecnologia para transformar tarefas manuais em processos mais áge
 - Construção de fluxos com **Power Automate** para apoio a processos administrativos e operacionais
 - Leitura e tratamento de **PDFs e imagens**
 - Uso de **OCR** para extração de texto em documentos
-- Extração de dados como número de nota fiscal, contrato, datas e identificação de UF
-- Classificação automática de documentos por tipo, como:
-  - Nota Fiscal
-  - Nota de Remessa
-  - Carta de Correção
-  - Comprovante de Entrega
-  - Termo de Recebimento
 - Organização automática de arquivos e pastas por empresa, categoria e localização
 - Apoio em processos de conferência, validação e encaminhamento de documentos e informações
 
