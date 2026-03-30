@@ -2,7 +2,7 @@
 
 <p align="center">
   Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong><br>
-  Atuação prática em <strong>automação de processos</strong>, <strong>Python</strong>, <strong>Tally</strong> e <strong>Power Automate</strong>
+  Atuação prática com <strong>Python</strong>, <strong>automação de processos</strong>, <strong>Tally</strong> e <strong>Power Automate</strong>
 </p>
 
 <p align="center">
@@ -12,8 +12,8 @@
   <a href="https://github.com/leticiapaulap">
     <img src="https://img.shields.io/badge/GitHub-leticiapaulap-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://bit.ly/44T1RhO">
-    <img src="https://img.shields.io/badge/Portfólio-Acessar-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  <a href="https://www.linkedin.com/in/let%C3%ADcia-de-paulap/?skipRedirect=true">
+    <img src="https://img.shields.io/badge/LinkedIn-Let%C3%ADcia%20De%20Paula-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
@@ -21,22 +21,30 @@
 
 ## ✨ Sobre mim
 
-Sou estudante de Análise e Desenvolvimento de Sistemas, com foco em tecnologia aplicada à automação, organização de processos e soluções que facilitem rotinas operacionais.
+Sou estudante de Análise e Desenvolvimento de Sistemas e venho desenvolvendo minha experiência na área de tecnologia com foco em automação, organização de processos e tratamento de dados e documentos.
 
-Atualmente, minha experiência prática está voltada para o desenvolvimento de **scripts em Python**, criação e manutenção de **formulários no Tally**, construção de **fluxos no Power Automate** e apoio à **automação de processos documentais e administrativos**.
+Hoje, minha atuação está mais conectada à construção de soluções práticas com Python, criação de formulários no Tally, automações com Power Automate e suporte a fluxos que envolvem recebimento, validação, classificação e organização de informações.
 
-Tenho interesse em evoluir cada vez mais na área de tecnologia, unindo lógica, organização, melhoria contínua e desenvolvimento de soluções úteis para o dia a dia.
+Gosto de usar tecnologia para transformar tarefas manuais em processos mais ágeis, organizados e eficientes.
 
 ---
 
 ## 💼 Experiência prática
 
-- Desenvolvimento de **scripts em Python** para automação de rotinas
-- Criação e ajuste de **formulários no Tally**
-- Construção de fluxos e automações com **Power Automate**
-- Organização e tratamento de documentos e arquivos
-- Apoio em processos de validação, classificação e encaminhamento de informações
-- Estruturação de soluções para tornar atividades manuais mais rápidas e eficientes
+- Desenvolvimento de scripts em **Python** para automatizar rotinas e reduzir tarefas manuais
+- Criação e manutenção de **formulários no Tally** para coleta estruturada de informações
+- Construção de fluxos com **Power Automate** para apoio a processos administrativos e operacionais
+- Leitura e tratamento de **PDFs e imagens**
+- Uso de **OCR** para extração de texto em documentos
+- Extração de dados como número de nota fiscal, contrato, datas e identificação de UF
+- Classificação automática de documentos por tipo, como:
+  - Nota Fiscal
+  - Nota de Remessa
+  - Carta de Correção
+  - Comprovante de Entrega
+  - Termo de Recebimento
+- Organização automática de arquivos e pastas por empresa, categoria e localização
+- Apoio em processos de conferência, validação e encaminhamento de documentos e informações
 
 ---
 
@@ -48,11 +56,11 @@ Tenho interesse em evoluir cada vez mais na área de tecnologia, unindo lógica,
 ![Tally](https://img.shields.io/badge/Tally-6A5ACD?style=flat-square&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-### Banco de Dados e Ferramentas
-![DBeaver](https://img.shields.io/badge/DBeaver-372923?style=flat-square&logo=dbeaver&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+### Ferramentas e Apoio Técnico
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![DBeaver](https://img.shields.io/badge/DBeaver-372923?style=flat-square&logo=dbeaver&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
 
 ### Conhecimentos complementares
@@ -67,35 +75,38 @@ Tenho interesse em evoluir cada vez mais na área de tecnologia, unindo lógica,
 ## 📚 Atualmente aprendendo
 
 - Automação de processos com Python
-- Integração entre formulários, fluxos e rotinas automatizadas
-- Melhoria de processos com Power Automate
-- Estruturação e organização de dados
-- Desenvolvimento Back-End e APIs como evolução profissional
+- Integração entre formulários, scripts e fluxos automatizados
+- Estruturação e melhoria de processos com Power Automate
+- Boas práticas de desenvolvimento Back-End
+- Organização de dados e tratamento de informações
 
 ---
 
-## 📌 Projetos em destaque
+## 📌 Projetos e atividades em destaque
 
-| Projeto | Descrição |
-|--------|-----------|
-| **Automações com Python** | Scripts voltados para automatizar rotinas, organizar arquivos e otimizar tarefas repetitivas. |
-| **Formulários no Tally** | Estruturação de formulários para coleta de dados de forma prática e organizada. |
-| **Fluxos no Power Automate** | Criação de automações para encaminhamento, processamento e apoio a rotinas administrativas. |
-| **README do Perfil** | Repositório personalizado para apresentar meu perfil profissional, habilidades e projetos. |
-
----
-
-## 🎯 Objetivo profissional
-
-Busco crescer na área de tecnologia com foco em **automação**, **processos**, **Python** e **soluções práticas**, desenvolvendo ferramentas que gerem mais eficiência, organização e produtividade.
+| Projeto / Atividade | Descrição |
+|---|---|
+| **Scripts em Python** | Desenvolvimento de rotinas para leitura, classificação, renomeação e organização automática de documentos. |
+| **Formulários no Tally** | Criação de formulários para coleta padronizada de dados e apoio ao recebimento de informações. |
+| **Fluxos com Power Automate** | Estruturação de automações para encaminhamento, validação e apoio a processos internos. |
+| **Tratamento documental** | Leitura de PDFs e imagens, uso de OCR e extração de dados relevantes para organização e conferência. |
+| **README do Perfil** | Repositório personalizado para apresentar perfil, habilidades e trajetória em tecnologia. |
 
 ---
 
-## 🌐 Onde me encontrar
+## 🎯 O que estou construindo na minha carreira
+
+Tenho direcionado minha trajetória para a área de tecnologia com foco em automação, Python e melhoria de processos.
+
+Meu interesse está em continuar evoluindo tecnicamente, participando de projetos que envolvam organização, análise, tratamento de dados e desenvolvimento de soluções que realmente facilitem a rotina de trabalho.
+
+---
+
+## 🌐 Conecte-se comigo
 
 - 📧 **E-mail:** [leticiapaulaads@gmail.com](mailto:leticiapaulaads@gmail.com)
 - 💻 **GitHub:** [github.com/leticiapaulap](https://github.com/leticiapaulap)
-- 🌍 **Portfólio:** [bit.ly/44T1RhO](https://bit.ly/44T1RhO)
+- 🔗 **LinkedIn:** [Letícia De Paula](https://www.linkedin.com/in/let%C3%ADcia-de-paulap/?skipRedirect=true)
 
 ---
 
