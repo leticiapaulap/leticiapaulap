@@ -41,11 +41,6 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-![Estatísticas da Letícia](https://github-readme-stats.vercel.app/api?username=leticiapaulap&show_icons=true&theme=radical)
-
----
 
 ## 📚 Atualmente Aprendendo
 
