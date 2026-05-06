@@ -1,108 +1,356 @@
-<h1 align="center">Olá! Eu sou a Letícia De Paula 👋</h1>
+<!-- Banner / Apresentação -->
+<h1 align="center">Olá, eu sou a Letícia de Paula Pereira 👩‍💻</h1>
 
 <p align="center">
-  Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong><br>
-  Atuação prática com <strong>Python</strong>, <strong>automação de processos</strong>, <strong>Tally</strong> e <strong>Power Automate</strong>
+  Estudante de Análise e Desenvolvimento de Sistemas | Desenvolvimento Web | Back-end | Automação | Dados
 </p>
 
 <p align="center">
-  <a href="mailto:leticiapaulaads@gmail.com">
-    <img src="https://img.shields.io/badge/Email-leticiapaulaads%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="(https://www.linkedin.com/in/let%C3%ADcia-de-paulap/)">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/leticiapaulap">
-    <img src="https://img.shields.io/badge/GitHub-leticiapaulap-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/let%C3%ADcia-de-paulap/?skipRedirect=true">
-    <img src="https://img.shields.io/badge/LinkedIn-Let%C3%ADcia%20De%20Paula-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="mailto:leticiapaulaads@gmail.com">
+    <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## ✨ Sobre mim
+## 👩‍💻 Sobre mim
 
-Sou estudante de Análise e Desenvolvimento de Sistemas e venho desenvolvendo minha experiência na área de tecnologia com foco em automação, organização de processos e tratamento de dados e documentos.
+Sou estudante de **Análise e Desenvolvimento de Sistemas**, atualmente em processo de evolução na área de tecnologia, com foco em desenvolvimento de sistemas, automação de processos, banco de dados e análise de dados.
 
-Hoje, minha atuação está mais conectada à construção de soluções práticas com Python, criação de formulários no Tally, automações com Power Automate e suporte a fluxos que envolvem recebimento, validação, classificação e organização de informações.
+Tenho interesse em criar soluções que resolvam problemas reais, principalmente por meio de aplicações web, APIs, automações e ferramentas que ajudem a melhorar fluxos de trabalho, organizar informações e tornar processos mais eficientes.
 
-Gosto de usar tecnologia para transformar tarefas manuais em processos mais ágeis, organizados e eficientes.
+Atualmente venho desenvolvendo projetos envolvendo:
 
----
+- Desenvolvimento de aplicações web;
+- Criação de APIs REST;
+- Integração com banco de dados;
+- Automação de processos administrativos;
+- Organização e validação de documentos;
+- Dashboards e análise de dados;
+- Sistemas com foco em produtividade e usabilidade.
 
-## 💼 Experiência prática
-
-- Desenvolvimento de scripts em **Python** para automatizar rotinas e reduzir tarefas manuais
-- Criação e manutenção de **formulários no Tally** para coleta estruturada de informações
-- Construção de fluxos com **Power Automate** para apoio a processos administrativos e operacionais
-- Leitura e tratamento de **PDFs e imagens**
-- Uso de **OCR** para extração de texto em documentos
-- Organização automática de arquivos e pastas por empresa, categoria e localização
-- Apoio em processos de conferência, validação e encaminhamento de documentos e informações
+Busco constantemente aprender novas tecnologias, melhorar minha lógica de programação e construir projetos cada vez mais completos, profissionais e aplicáveis ao mercado.
 
 ---
 
 ## 🚀 Tecnologias e Ferramentas
 
-### Automação e Desenvolvimento
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=flat-square&logo=microsoft-power-automate&logoColor=white)
-![Tally](https://img.shields.io/badge/Tally-6A5ACD?style=flat-square&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+### Linguagens de Programação
 
-### Ferramentas e Apoio Técnico
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![DBeaver](https://img.shields.io/badge/DBeaver-372923?style=flat-square&logo=dbeaver&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
 
-### Conhecimentos complementares
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+### Front-end
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+</p>
+
+### Back-end
+
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/API_REST-005571?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
+</p>
+
+### Banco de Dados
+
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logo=neon&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=prisma&logoColor=white"/>
+</p>
+
+### Dados, Automação e Produtividade
+
+<p>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AppSheet-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoftsharepoint&logoColor=white"/>
+</p>
+
+### Ferramentas de Desenvolvimento
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyCharm-21D789?style=for-the-badge&logo=pycharm&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</p>
 
 ---
 
-## 📚 Atualmente aprendendo
+## 📌 Áreas de Interesse
 
-- Automação de processos com Python
-- Integração entre formulários, scripts e fluxos automatizados
-- Estruturação e melhoria de processos com Power Automate
-- Boas práticas de desenvolvimento Back-End
-- Organização de dados e tratamento de informações
+Tenho maior interesse nas áreas de:
 
----
-
-## 📌 Projetos e atividades em destaque
-
-| Projeto / Atividade | Descrição |
-|---|---|
-| **Scripts em Python** | Desenvolvimento de rotinas para leitura, classificação, renomeação e organização automática de documentos. |
-| **Formulários no Tally** | Criação de formulários para coleta padronizada de dados e apoio ao recebimento de informações. |
-| **Fluxos com Power Automate** | Estruturação de automações para encaminhamento, validação e apoio a processos internos. |
-| **Tratamento documental** | Leitura de PDFs e imagens, uso de OCR e extração de dados relevantes para organização e conferência. |
-| **README do Perfil** | Repositório personalizado para apresentar perfil, habilidades e trajetória em tecnologia. |
+- Desenvolvimento Back-end;
+- Desenvolvimento Web;
+- APIs REST;
+- Banco de Dados;
+- Análise de Dados;
+- Automação de Processos;
+- Power BI;
+- Sistemas Corporativos;
+- Integrações com ferramentas Microsoft 365;
+- Organização e validação de documentos digitais.
 
 ---
 
-## 🎯 O que estou construindo na minha carreira
+## 💼 Projetos em Destaque
 
-Tenho direcionado minha trajetória para a área de tecnologia com foco em automação, Python e melhoria de processos.
+### 🎓 EduConnect
 
-Meu interesse está em continuar evoluindo tecnicamente, participando de projetos que envolvam organização, análise, tratamento de dados e desenvolvimento de soluções que realmente facilitem a rotina de trabalho.
+O **EduConnect** é uma plataforma educacional desenvolvida com foco na comunicação entre escola, professores, alunos e responsáveis.
+
+A proposta do projeto é facilitar o acompanhamento acadêmico e melhorar a organização das informações escolares, permitindo uma comunicação mais clara entre os usuários da instituição.
+
+#### Funcionalidades previstas
+
+- Cadastro de usuários;
+- Perfis para administrador, professor, aluno e responsável;
+- Organização de dados escolares;
+- Acompanhamento acadêmico;
+- Estrutura para notas, atividades e informações educacionais;
+- API desenvolvida com Java e Spring Boot;
+- Integração com banco de dados PostgreSQL.
+
+#### Tecnologias utilizadas
+
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/API_REST-005571?style=flat-square"/>
+  <img src="https://img.shields.io/badge/GitHub-121011?style=flat-square&logo=github&logoColor=white"/>
+</p>
 
 ---
 
-## 🌐 Conecte-se comigo
+### 📄 Sistema de Recebimento e Validação de Documentos
 
-- 📧 **E-mail:** [leticiapaulaads@gmail.com](mailto:leticiapaulaads@gmail.com)
-- 💻 **GitHub:** [github.com/leticiapaulap](https://github.com/leticiapaulap)
-- 🔗 **LinkedIn:** [Letícia De Paula](https://www.linkedin.com/in/let%C3%ADcia-de-paulap/?skipRedirect=true)
+Sistema criado para automatizar o recebimento, conferência, organização e validação de documentos enviados por empresas e unidades federativas.
+
+O objetivo do projeto é reduzir tarefas manuais, padronizar arquivos, melhorar a rastreabilidade dos envios e facilitar a gestão documental.
+
+#### Funcionalidades
+
+- Formulários para envio de documentos;
+- Separação por contexto: empresas e unidades federativas;
+- Validação de tipo de documento;
+- Geração de recibos em PDF;
+- Envio automático de e-mails;
+- Organização por empresa, contrato e UF;
+- Registro das informações em banco de dados;
+- Estrutura preparada para integração com SharePoint;
+- Portal administrativo para acompanhamento das solicitações.
+
+#### Tecnologias utilizadas
+
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prisma-3982CE?style=flat-square&logo=prisma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SMTP-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+</p>
+
+---
+
+### 🐍 Automação e Organização de Arquivos com Python
+
+Projeto voltado para automação da leitura, classificação, renomeação e organização de arquivos, principalmente documentos em PDF e imagens.
+
+A solução tem como foco reduzir o trabalho manual na separação de arquivos e melhorar a padronização da organização documental.
+
+#### Funcionalidades
+
+- Leitura de arquivos PDF;
+- Extração de informações por texto;
+- Apoio com OCR para documentos digitalizados;
+- Identificação de empresa, contrato, UF e tipo de documento;
+- Classificação automática de arquivos;
+- Renomeação padronizada;
+- Organização em pastas conforme regras definidas;
+- Evita reprocessamento de arquivos já organizados.
+
+#### Tecnologias utilizadas
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OCR-5C2D91?style=flat-square"/>
+  <img src="https://img.shields.io/badge/PDF_Processing-FF0000?style=flat-square&logo=adobeacrobatreader&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Regex-000000?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Automação-2E8B57?style=flat-square"/>
+</p>
+
+---
+
+### 📊 Aplicativo Operacional com AppSheet
+
+Aplicação criada para auxiliar no controle operacional de funcionários, lançamentos de horas e folha de pagamento.
+
+O projeto foi estruturado para facilitar o uso diário por equipes operacionais, centralizando informações importantes e automatizando cálculos.
+
+#### Funcionalidades
+
+- Cadastro de funcionários;
+- Controle de lançamentos de horas;
+- Registro de operações;
+- Cálculo de horas trabalhadas;
+- Estrutura para folha de pagamento;
+- Fechamento quinzenal;
+- Organização por unidade;
+- Base integrada com planilhas.
+
+#### Tecnologias utilizadas
+
+<p>
+  <img src="https://img.shields.io/badge/AppSheet-4285F4?style=flat-square&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apps_Script-4285F4?style=flat-square&logo=googleappsscript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Automação-2E8B57?style=flat-square"/>
+</p>
+
+---
+
+### 🌐 Portfólio Web
+
+Projeto desenvolvido para apresentar informações profissionais, habilidades, projetos e formas de contato de maneira visual, responsiva e organizada.
+
+#### Funcionalidades
+
+- Página inicial com apresentação;
+- Área sobre mim;
+- Seção de projetos;
+- Currículo;
+- Contato;
+- Layout responsivo;
+- Publicação online via Vercel.
+
+#### Tecnologias utilizadas
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
+</p>
+
+---
+
+## 📚 Atualmente estudando
+
+Atualmente estou aprofundando meus conhecimentos em:
+
+- Java;
+- Spring Boot;
+- APIs REST;
+- PostgreSQL;
+- React;
+- Next.js;
+- TypeScript;
+- Angular;
+- Git e GitHub;
+- Power BI;
+- Estruturação de projetos completos;
+- Boas práticas de desenvolvimento.
+
+---
+
+## 🧠 Competências em desenvolvimento
+
+- Lógica de programação;
+- Organização de código;
+- Versionamento com Git;
+- Modelagem de banco de dados;
+- Criação de APIs;
+- Consumo de APIs;
+- Automação de tarefas;
+- Construção de interfaces responsivas;
+- Análise e estruturação de requisitos;
+- Documentação de projetos;
+- Resolução de problemas.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 📈 Atividade no GitHub
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO_GITHUB&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🐍 Contribuições
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SEU_USUARIO_GITHUB/SEU_USUARIO_GITHUB/output/github-contribution-grid-snake.svg"/>
+</p>
+
+> Observação: para a animação da cobrinha funcionar, é necessário configurar o GitHub Actions no repositório do perfil. Caso não configure, você pode remover esta seção.
+
+---
+
+## 🎯 Objetivo profissional
+
+Meu objetivo é continuar evoluindo na área de tecnologia, desenvolvendo soluções completas, úteis e bem estruturadas.
+
+Busco oportunidades que me permitam aplicar e desenvolver conhecimentos em desenvolvimento web, back-end, banco de dados, automação e análise de dados, contribuindo para projetos que gerem impacto real e melhoria de processos.
+
+---
+
+## 📫 Contato
+
+<p>
+  <a href="SEU_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-Entre_em_contato-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+<p>
+  <a href="mailto:SEU_EMAIL">
+    <img src="https://img.shields.io/badge/E--mail-Enviar_mensagem-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
 <p align="center">
-  Obrigada por visitar meu perfil 💜
+  <strong>Obrigada por visitar meu perfil! ✨</strong>
+</p>
+
+<p align="center">
+  Sempre buscando aprender, evoluir e transformar ideias em soluções reais.
 </p>
