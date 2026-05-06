@@ -316,16 +316,6 @@ Atualmente estou aprofundando meus conhecimentos em:
 
 ---
 
-## 🐍 Contribuições
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/SEU_USUARIO_GITHUB/SEU_USUARIO_GITHUB/output/github-contribution-grid-snake.svg"/>
-</p>
-
-> Observação: para a animação da cobrinha funcionar, é necessário configurar o GitHub Actions no repositório do perfil. Caso não configure, você pode remover esta seção.
-
----
-
 ## 🎯 Objetivo profissional
 
 Meu objetivo é continuar evoluindo na área de tecnologia, desenvolvendo soluções completas, úteis e bem estruturadas.
