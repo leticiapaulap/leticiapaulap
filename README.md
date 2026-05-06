@@ -120,9 +120,9 @@ Tenho maior interesse nas áreas de:
 
 ## 💼 Projetos em Destaque
 
-### 🎓 EduConnect
+### 🎓 Connect
 
-O **EduConnect** é uma plataforma educacional desenvolvida com foco na comunicação entre escola, professores, alunos e responsáveis.
+O **Connect** é uma plataforma educacional desenvolvida com foco na comunicação entre escola, professores, alunos e responsáveis.
 
 A proposta do projeto é facilitar o acompanhamento acadêmico e melhorar a organização das informações escolares, permitindo uma comunicação mais clara entre os usuários da instituição.
 
